@@ -1,0 +1,13 @@
+E:\.Net Projects\Playing Cards\Playing Cards\bin\Debug\netcoreapp3.1\Playing Cards.exe
+E:\.Net Projects\Playing Cards\Playing Cards\bin\Debug\netcoreapp3.1\Playing Cards.deps.json
+E:\.Net Projects\Playing Cards\Playing Cards\bin\Debug\netcoreapp3.1\Playing Cards.runtimeconfig.json
+E:\.Net Projects\Playing Cards\Playing Cards\bin\Debug\netcoreapp3.1\Playing Cards.runtimeconfig.dev.json
+E:\.Net Projects\Playing Cards\Playing Cards\bin\Debug\netcoreapp3.1\Playing Cards.dll
+E:\.Net Projects\Playing Cards\Playing Cards\bin\Debug\netcoreapp3.1\Playing Cards.pdb
+E:\.Net Projects\Playing Cards\Playing Cards\obj\Debug\netcoreapp3.1\Playing Cards.csprojAssemblyReference.cache
+E:\.Net Projects\Playing Cards\Playing Cards\obj\Debug\netcoreapp3.1\Playing Cards.AssemblyInfoInputs.cache
+E:\.Net Projects\Playing Cards\Playing Cards\obj\Debug\netcoreapp3.1\Playing Cards.AssemblyInfo.cs
+E:\.Net Projects\Playing Cards\Playing Cards\obj\Debug\netcoreapp3.1\Playing Cards.csproj.CoreCompileInputs.cache
+E:\.Net Projects\Playing Cards\Playing Cards\obj\Debug\netcoreapp3.1\Playing Cards.dll
+E:\.Net Projects\Playing Cards\Playing Cards\obj\Debug\netcoreapp3.1\Playing Cards.pdb
+E:\.Net Projects\Playing Cards\Playing Cards\obj\Debug\netcoreapp3.1\Playing Cards.genruntimeconfig.cache
